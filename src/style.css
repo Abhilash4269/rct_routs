@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+
+.contact{
+  max-width: 300px;
+  height: auto;
+  background-color: antiquewhite;
+  text-align: center;
+  display: flex;
+  flex-direction: column
+}
